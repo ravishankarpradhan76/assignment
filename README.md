@@ -1,16 +1,10 @@
-# assignment
+📱 Features
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ Trending GIFs by Default - Browse popular GIFs automatically on launch
+🔍 Real-time Search - WhatsApp-style search with instant results
+♾️ Infinite Scroll - Seamless loading of more GIFs as you scroll
+⚡ Fast Performance - Cached network images for smooth scrolling
+🎯 Debounced Search - Optimized API calls with 500ms delay
+📱 Responsive Design - Beautiful grid layout that adapts to screen size
+🔄 Pull to Refresh - Easy content refresh functionality
+🎨 Modern UI - Clean, intuitive interface inspired by popular messaging apps
